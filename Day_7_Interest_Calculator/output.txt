@@ -1,0 +1,39 @@
+=== Simple Interest Calculator ===
+Enter Principal Amount (P): 10000
+Enter Annual Interest Rate (%) (R): 10
+Enter Time (in years) (T): 2
+
+--- Result ---
+Principal (P): 10000.0
+Rate of Interest (R): 10.0%
+Time Period (T): 2.0 years
+Simple Interest (SI) PKR: ₨2,000.00
+Total Amount (A) PKR: ₨12,000.00
+
+Program Finished Successfully!
+
+=== Compound Interest Calculator ===
+Enter Principal Amount (P): 10000
+Enter Annual Interest Rate (%) (R): 10
+Enter Time (in years) (T): 2
+Enter Number of Compounding periods
+Yearly = 1
+Quarterly = 4
+Monthly = 12
+Daily = 365 :==: 4
+
+--- Result ---
+Principal (P): 10000.0
+Rate of Interest (R): 10.0%
+Time Period (T): 2.0 years
+Compounding Periods (Q): 4 quarterly
+Compound Interest (CI) PKR: ₨2,028.64
+Total Amount (A) PKR: ₨12,028.64
+
+Program Finished Successfully!
+
+Welcome to simple + compound calculator
+1. Simple Calculator
+2. Compound Calculator
+3. Exit: 3
+Thanks See You Again For More Calculating! Exiting.....

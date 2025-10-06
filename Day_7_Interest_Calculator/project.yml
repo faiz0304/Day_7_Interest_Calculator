@@ -1,0 +1,30 @@
+name: "Day 7 - Simple & Compound Interest Calculator"
+description: "A Python mini project that calculates simple and compound interest with user interaction, error handling, and formatted output."
+author: "Faiz Ur Rehman Ashrafi"
+date: "2025-10-06"
+version: "1.0.0"
+
+files:
+  - simple_interest.py
+  - compound_interest.py
+  - combined_interest.py
+  - README.md
+  - output.txt
+
+features:
+  - Calculates simple and compound interest
+  - Supports yearly, quarterly, monthly, daily compounding
+  - Error handling for invalid inputs
+  - Currency formatting for PKR
+  - Menu-driven combined version
+  - Re-run calculation option
+
+requirements:
+  - Python 3.8 or higher
+  - Locale support for "en_PK.UTF-8"
+
+usage:
+  run: |
+    python simple_interest.py
+    python compound_interest.py
+    python combined_interest.py
